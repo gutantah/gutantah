@@ -8,7 +8,7 @@ def generate_info_card(output_path="info-card.svg"):
     title = "radu@github ~"
     rows = [
         ("Now", "CS Student @ Technical University of Cluj-Napoca"),
-        ("Prev", "AI Training & LLM Evaluation"),
+        ("Prev", "AI Training &amp; LLM Evaluation"),
         ("Stack", "C, C++, Java, Python, VHDL, SQL"),
         ("Highlights", "32-bit MIPS CPU, Budget Management app")
     ]
